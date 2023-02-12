@@ -1,4 +1,4 @@
-console.log('deposite')
+console.log('withdraw file')
 document.getElementById('btn-withdraw').addEventListener('click',function(){
     // user deposite
     const newWithdrawField=document.getElementById('new-withdraw');

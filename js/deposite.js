@@ -1,4 +1,4 @@
-console.log('deposite')
+console.log('deposite file')
 document.getElementById('btn-deposite').addEventListener('click',function(){
     // user deposite
     const newDepositeField=document.getElementById('new-deposite');
